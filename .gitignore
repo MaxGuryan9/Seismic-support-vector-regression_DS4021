@@ -217,5 +217,3 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-# data does not need to be in here
-*.xlsx
